@@ -18,6 +18,6 @@ Dectecting whether people are wearing face mask from live feed.
 
 ## To run the detector:
 - Download this repo to your local system and extract the folder.
-- Install necessary packages mentioned above
+- Install necessary packages mentioned above.
 - Open terminal in the extracted repo folder and run ```python2 main.py model.h5``` where model.h5 is the path to the face mask detection model.
 
