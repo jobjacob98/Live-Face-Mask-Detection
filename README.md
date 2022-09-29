@@ -1,5 +1,5 @@
 # Live Face Mask Detection
-Dectecting whether people are wearing face mask from live feed.
+Detecting whether people are wearing face mask from live feed.
 
 [Click to watch Demo](https://drive.google.com/file/d/1pLER3U_3oyT0GOOtHSVoCzxRYMpR28Tj/view?usp=sharing)
 
